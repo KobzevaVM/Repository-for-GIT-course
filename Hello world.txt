@@ -1,4 +1,3 @@
 Hello world!
-12345
 Good bye!
-678910
+Line from user1
